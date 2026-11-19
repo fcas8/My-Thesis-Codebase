@@ -1,0 +1,94 @@
+occ_code,occ_label,isco1,isco2,isco3,isco_link,note
+MIL_OFF,Military officers (commanders of platoon and above),0,01,011,high,
+MIL_NCO,Military non-commissioned officers (section commanders; sergeants),0,02,021,high,
+MIL_RANK,Military other ranks: combat and combat-support roles,0,03,031,high,"Combat role names only (rifleman, drone operator, sapper...). Civilian-type duties in the army (driver, cook) keep their civilian group; see title_military flag."
+MIL_GEN,"Military, role not stated (військовослужбовець)",0,,,high,
+MGR_GEN,"Managers, function not stated (director, head, chief)",1,,,medium,"Generic managerial title; function not identifiable from the title."
+MGR_FIN_HR,"Finance, HR and administrative managers",1,12,121,high,
+MGR_SALES,"Sales, marketing and business development managers (heads)",1,12,122,high,Heads of sales/marketing only; not Ukrainian 'менеджер з продажу'.
+MGR_PROJ,Project and product managers,1,12,121,low,ISCO placement of project/product managers varies by sector; treat ISCO link as indicative.
+MGR_PROD,"Production, supply, logistics and construction managers",1,13,132,high,
+MGR_IT,ICT service managers,1,13,133,high,
+MGR_HOSP,Hotel and restaurant managers,1,14,141,high,
+MGR_RETAIL,Retail and wholesale trade managers (shop managers),1,14,142,high,
+ENG,Engineers (excluding ICT) and technologists,2,21,214,medium,"Ukrainian 'інженер'/'технолог' spans professional (214) and technician (311) levels."
+SCI,"Physical, life-science and agronomy professionals",2,21,,medium,"Chemists, biologists, ecologists, agronomists, geologists."
+ARCH,"Architects, planners and surveyors",2,21,216,high,
+DESIGN,"Graphic, multimedia, web, UI/UX, interior and product designers",2,21,216,high,
+HEALTH_DOC,Medical doctors and dentists,2,22,221,high,Includes dentists (ISCO 2261) for simplicity.
+HEALTH_THER,"Physiotherapists, rehabilitation, speech therapists",2,22,226,high,
+OHS,Occupational health and safety specialists,2,22,226,medium,ISCO 2263; some are technician level (3257).
+VET,Veterinarians,2,22,225,high,
+PHARMACIST,Pharmacists (провізор),2,22,226,high,
+TEACH_SCH,School teachers,2,23,233,medium,Primary (2341) and secondary (2330) teachers combined.
+TEACH_PRE,Pre-school teachers (вихователь),2,23,234,medium,
+TEACH_OTH,"Other teachers, lecturers, tutors and trainers",2,23,235,medium,"Language teachers, tutors, university lecturers combined."
+ACCOUNT,Accountants (бухгалтер),2,24,241,medium,"Ukrainian 'бухгалтер' covers ISCO 2411 and 3313; ISCO 2-digit is indicative."
+FIN_SPEC,"Economists, financial analysts and finance specialists",2,24,,low,"'Економіст' in Ukrainian firms is usually a planning/finance specialist, not ISCO 2631."
+HR_PROF,"HR specialists, recruiters",2,24,242,high,
+BUS_ANALYST,Business and management analysts,2,24,242,high,
+MKT_PROF,"Marketing, advertising, SMM, PR and content specialists",2,24,243,high,
+ICT_PROF,"Software developers, QA, DevOps, data and systems specialists",2,25,,high,
+LEGAL,"Lawyers, legal advisers, notaries",2,26,261,high,
+SOC_PSY,"Psychologists, social workers, clergy",2,26,263,high,
+WRITERS,"Writers, editors, journalists, copywriters, translators",2,26,264,high,
+ARTS,"Visual and performing artists, presenters",2,26,265,high,
+TECH_ENG,"Engineering and construction technicians, estimators, site supervisors",3,31,,medium,
+LAB_TECH,Laboratory assistants and technicians,3,,,low,"'Лаборант' may be medical (321) or industrial (311)."
+HEALTH_ASSOC,"Nurses, paramedics (фельдшер), dental and pharmacy assistants, masseurs",3,32,,medium,"Ukrainian 'медсестра' is mostly associate-professional (3221); 'фармацевт' is pharmacy-technician level (3213)."
+SALES_REP,Sales representatives and sales managers (non-supervisory),3,33,332,medium,"Ukrainian 'менеджер з продажу' is usually a non-supervisory sales agent; ISCO link indicative."
+CLIENT_MGR,Client managers (account / customer relationship),,,,none,"'Менеджер по роботі з клієнтами' mixes sales and customer service; harmonized group only, no ISCO link."
+PROCURE,"Purchasers, procurement and foreign-trade (ЗЕД) specialists",3,33,332,medium,
+REAL_ESTATE,Real estate agents,3,33,333,high,
+FORWARD,"Freight forwarders, customs brokers",3,33,333,high,"'Експедитор' alone; driver-forwarders are drivers."
+OFFICE_ADMIN,"Office managers, executive assistants, secretaries",3,33,334,medium,"Secretaries (4120) combined with office managers/assistants (334)."
+LEGAL_ASSOC,"Legal assistants, court clerks",3,34,341,high,
+FITNESS,Fitness and sports instructors,3,34,342,high,
+PHOTO_AV,"Photographers, video editors, audiovisual technicians",3,,,medium,Photographers (3431) and AV technicians (3521).
+CHEF_HEAD,"Chefs, head cooks, sous-chefs",3,34,343,high,
+ICT_TECH,"ICT user support and system administrators",3,35,,medium,"System administrators are ISCO 2522; combined with support technicians here."
+CLERK_DATA,"Data entry, 1C operators and general office clerks",4,41,,medium,
+CLIENT_INFO,"Contact-centre, customer service, chat operators, receptionists, travel consultants",4,42,422,medium,"Includes 'Direct-менеджер' (social-media chat sales/support)."
+BANK_TELLER,"Bank tellers, currency exchange cashiers, credit officers",4,42,421,medium,Credit officers (3312) combined.
+BOOKKEEP,Bookkeeping and payroll clerks,4,43,431,medium,
+LOGIST,"Logistics specialists and dispatchers",4,43,432,medium,"'Логіст' level varies (clerk to professional)."
+STOCK_CLERK,"Storekeepers, stock clerks, goods receivers, commodity experts",4,43,432,high,
+HR_CLERK,Personnel clerks (інспектор з кадрів),4,44,441,high,
+POST_CLERK,Postal clerks and letter carriers,4,44,441,high,
+COOK,"Cooks (incl. sushi, pizza, grill)",5,51,512,high,
+WAITER_BAR,"Waiters, bartenders, baristas, hosts",5,51,513,high,
+HOSP_ADMIN,"Restaurant/café floor administrators",5,51,,low,Supervisory hall staff; ISCO between 5131 and 1412.
+BEAUTY,"Hairdressers, barbers, manicurists, beauticians, cosmetologists",5,51,514,high,
+SHOP_SALES,"Shop salespersons and cashiers",5,52,,high,Shop sales assistants (5223) and cashiers (5230) combined.
+SHOP_SUPERV,Shop floor administrators/supervisors,5,52,522,medium,
+STATION_ATT,Fuel station attendants/operators,5,52,524,high,
+PROMOTER,Promoters and merchandisers,5,52,524,medium,Merchandisers (shelf display) may be ISCO 9334.
+CHILD_CARE,"Nannies, teachers' aides, caregivers, junior nurses, orderlies",5,53,,high,
+PROTECT,"Security guards, police, watchmen",5,54,541,high,Watchmen (9629) combined with guards (5414).
+AGRI,"Gardeners, farm and livestock workers",6,61,,medium,"Florists are not classified."
+CONSTR,"Building trades: builders, masons, plasterers, painters, plumbers, tilers",7,71,,high,
+WELDER,Welders,7,72,721,high,
+METAL_MACH,"Mechanics, fitters (слюсар), machinists (turners, CNC)",7,72,,high,
+ELECTRIC,"Electricians, electrical and electronics fitters and repairers",7,74,,high,
+FOOD_TRADES,"Bakers, pastry cooks, butchers",7,75,751,high,
+WOOD_FURN,"Joiners, carpenters, furniture makers and assemblers",7,75,752,medium,
+GARMENT,"Sewers, tailors, cutters",7,75,753,high,
+PLANT_OP,"Production-line and stationary plant operators, assemblers",8,,,medium,"Stationary plant operators (81), assemblers (82), locomotive drivers."
+DRIVER,"Drivers (car, truck, bus, taxi; incl. driver-forwarders)",8,83,832,high,
+MOBILE_PLANT,"Forklift, crane, tractor and excavator operators",8,83,834,high,
+CLEANER,"Cleaners, room attendants, housekeepers, car washers",9,91,,high,
+LABOURER,"General labourers, handymen, auxiliary workers",9,93,,medium,
+WAREHOUSE,"Loaders, order pickers, packers",9,93,933,high,Freight handlers (9333) and hand packers (9321) combined.
+KITCHEN_HELP,"Kitchen helpers, dishwashers, fast-food crew",9,94,941,high,
+COURIER,Couriers and delivery workers,9,96,962,high,
+STREET_ELEM,"Yard sweepers, street cleaners",9,96,961,high,
+FLORIST,Florists,,,,none,"Harmonized group only; ISCO placement of florists is not standardized."
+SELF_EMP,"Self-employed, business owner, freelancer (occupation not stated)",,,,none,"Mainly in resume work histories; not an ISCO occupation."
+AMBIG,Title explicitly treated as ambiguous (not classified),,,,none,"Generic titles such as 'адміністратор', 'менеджер', 'оператор', 'помічник'."
+MINING,"Miners, tunnelers and mine support workers",8,81,811,high,Added for robota.ua (14 Nov 2026)
+PUBLIC_ADMIN,"Civil servants and state officials (державна служба, state enforcement officers)",2,24,242,medium,Added for robota.ua (14 Nov 2026)
+LIBRARIAN,"Librarians, archivists and curators",2,26,262,high,Added for robota.ua (14 Nov 2026)
+RAIL_OP,"Railway operators: shunters, signal and switch operators, locomotive drivers",8,83,831,high,Added for robota.ua (14 Nov 2026)
+TRANSPORT_ATT,"Conductors and travel attendants (train, bus, flight)",5,51,511,high,Added for robota.ua (14 Nov 2026)
+QC_INSPECT,"Quality controllers and product testers",7,75,754,medium,Added for robota.ua (14 Nov 2026)
+METER_READ,"Meter readers and utility inspectors",9,96,962,medium,Added for robota.ua (14 Nov 2026)

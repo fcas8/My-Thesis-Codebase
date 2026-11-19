@@ -1,0 +1,8 @@
+id,en,source
+0,0 not set (inferred),"no official list; inferred from job titles in export 20261105_072026: mixed titles, 41% of descriptions say 'no experience'"
+1,1 workers / sales staff (inferred),"inferred: 49% of titles are workers, drivers, sellers, cashiers, cooks, guards"
+2,2 entry-level / junior (inferred),"inferred: most junior/intern titles (11%), sales/client managers, operators"
+3,3 specialist (inferred),"inferred: specialists and managers; 'no experience' in only 2% of descriptions"
+4,4 senior specialist / lead (inferred),"inferred: 22% senior/lead/chief-specialist titles (e.g. 'провідний', 'головний фахівець', Senior)"
+5,5 head of unit / middle mgmt (inferred),"inferred: 48% of titles head/manager of a unit (керівник, начальник відділу)"
+6,6 director / top mgmt (inferred),"inferred: 92% of titles are directors or C-level"

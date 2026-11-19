@@ -1,0 +1,20 @@
+Copyright (c) 2026 the author of this repository
+
+Unless stated otherwise below, the contents of this repository (code, documentation,
+crosswalks, figures and tables) are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, including commercially,
+provided you give appropriate credit, provide a link to the license, and indicate if
+changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Exception: data/crosswalks/occupation_groups.csv and data/crosswalks/occupation_rules.csv
+were first built on the Kyiv School of Economics Work.ua data, which are licensed under
+CC BY-NC 4.0. These two files are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0):
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Third-party inputs used by the code (VIINA, the Ukrainian air-raid sirens dataset, OCHA
+COD-AB boundaries) are not included and remain under their own licenses.

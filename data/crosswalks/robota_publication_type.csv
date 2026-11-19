@@ -1,0 +1,7 @@
+id,en,source
+0,Undefined,"name from API docs (api.rabota.ua/swagger/docs/v1, enum publicationType); code by enum order; not in data"
+1,Optimum,"name from API docs; code by enum order"
+2,Professional,"name from API docs (spelled Proffessional); code by enum order"
+3,Test,"name from API docs; code by enum order"
+4,Anonymous,"name from API docs; code confirmed in data: all 1,053 postings are 'Анонимный работодатель' with no employer id"
+5,Business,"name from API docs (spelled Bussines); code by enum order"

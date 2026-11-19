@@ -1,0 +1,9 @@
+# Track code, documentation, crosswalks and aggregate tables only.
+data/raw/
+data/temp/
+data/analysis/
+*.dta
+*.log
+__pycache__/
+*.pyc
+*.stswp

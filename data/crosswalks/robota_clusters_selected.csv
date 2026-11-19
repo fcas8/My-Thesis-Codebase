@@ -1,0 +1,48 @@
+dim_id,group_id,varname,label_en,group_name_api
+52,7140,emp_fulltime,Employment: full-time,Полная занятость
+52,2004,emp_remote,Employment: remote,Удаленная работа
+52,2008,emp_parttime,Employment: part-time,Неполная занятость
+52,2005,emp_intern,Employment: internship/practice,Стажировка/практика
+52,3053,emp_rotation,Employment: rotation (vakhta),Вахта
+52,3681,emp_freesched,Employment: free schedule,Свободный график
+52,3529,emp_weekends,Employment: weekend work,Работа на выходных
+174,2891,exp_none,Experience: none required,Без опыта
+174,14779,exp_6m,Experience: from 6 months,Опыт работы от 6 месяцев
+174,14751,exp_1y,Experience: from 1 year,Опыт работы от 1 года
+174,14752,exp_2y,Experience: from 2 years,Опыт работы от 2 лет
+174,14753,exp_3y,Experience: from 3 years,Опыт работы от 3 лет
+174,14754,exp_4y,Experience: from 4 years,Опыт работы от 4 лет
+174,14755,exp_5y,Experience: from 5 years,Опыт работы от 5 лет
+167,12635,sched_shifts,Schedule: shifts,Сменный график
+167,12641,sched_5day,Schedule: five-day week,Пятидневная рабочая неделя
+167,12638,sched_flexible,Schedule: flexible,Гибкий график
+167,2899,sched_night,Schedule: night shift,Ночная смена
+167,12644,sched_6day,Schedule: six-day week,Шестидневная рабочая неделя
+167,7136,sched_24on72off,Schedule: 24h on / 72h off,Сутки/трое
+167,14710,sched_24on48off,Schedule: 24h on / 48h off,Сутки/двое
+167,7001,sched_evening,Schedule: evening shift,Вечерняя смена
+167,14711,sched_day,Schedule: day shift,Дневная смена
+175,14756,edu_higher,Education: higher,Высшее образование
+175,14773,edu_inchigher,Education: incomplete higher,Неоконченное высшее образование
+175,14777,edu_vocational,Education: secondary specialised,Середня спеціальна освіта
+175,14774,edu_secondary,Education: secondary,Среднее образование
+178,2818,car_own,Car: candidate's own vehicle,Работа на автотранспорте соискателя
+178,8469,car_employer,Car: employer's vehicle,Работа на автотранспорте работодателя
+79,2892,info_disability,Open to people with disabilities,Работа для людей с инвалидностью
+79,3295,info_housing,Housing provided by employer,Проживание обеспечивает работодатель
+79,1680,info_student,Suitable for students,Работа для студента
+79,14636,info_trips,Business trips,Командировки
+79,1780,info_couple,Suitable for a couple,Работа для семейной пары
+79,2922,info_pensioner,Suitable for pensioners,Работа для пенсионеров
+79,20756,info_veteran,Veteran,Ветеран
+85,8674,lic_B,Driving licence: B,Права категории В
+85,8676,lic_C,Driving licence: C,Права категории С
+85,13425,lic_CE,Driving licence: CE,Права категории СЕ
+85,8678,lic_D,Driving licence: D,Права категории D
+85,8675,lic_A,Driving licence: A,Права категории А
+155,2794,langreq_en,Language required: English,Английский язык
+155,11377,langreq_uk,Language required: Ukrainian,Украинский язык
+155,2795,langreq_de,Language required: German,Немецкий язык
+155,2868,langreq_pl,Language required: Polish,Польский язык
+155,2805,langreq_fr,Language required: French,Французский язык
+155,2874,langreq_es,Language required: Spanish,Испанский язык

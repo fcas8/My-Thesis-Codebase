@@ -1,0 +1,75 @@
+ind_code,ind_label,source_label
+1,Retail trade,Роздрібна торгівля
+1,Retail trade,Розничная торговля
+2,Hotels and restaurants,Готельно-ресторанний бізнес
+2,Hotels and restaurants,Гостинично-ресторанный бизнес
+3,"Education, science","Освіта, наука"
+3,"Education, science","Образование, наука"
+4,"Wholesale, distribution, import/export","Оптова торгівля, дистрибуція, імпорт, експорт"
+4,"Wholesale, distribution, import/export","Оптовая торговля, дистрибуция, импорт, экспорт"
+5,"Medicine, health care, pharmacies","Медицина, охорона здоров'я, аптеки"
+5,"Medicine, health care, pharmacies","Медицина, здравоохранение, аптеки"
+6,IT,IT
+7,"Transport, logistics","Транспорт, логістика"
+7,"Transport, logistics","Транспорт, логистика"
+8,"Finance, banking, insurance","Фінанси, банки, страхування"
+8,"Finance, banking, insurance","Финансы, банки, страхование"
+9,"Construction, architecture, interior design","Будівництво, архітектура, дизайн інтер'єру"
+9,"Construction, architecture, interior design","Строительство, архитектура, дизайн интерьера"
+10,Government organisations,Державні організації
+10,Government organisations,Государственные организации
+11,Food industry,Харчова промисловість
+11,Food industry,Пищевая промышленность
+12,"Agriculture, agribusiness","Сільське господарство, агробізнес"
+12,"Agriculture, agribusiness","Сельское хозяйство, агробизнес"
+13,"Marketing, advertising, PR","Маркетинг, реклама, PR"
+14,Machine building,Машинобудування
+14,Machine building,Машиностроение
+15,Services for households and business,Послуги для населення та бізнесу
+15,Services for households and business,Услуги для населения и бизнеса
+16,"Beauty, fitness, sport","Краса, фітнес, спорт"
+16,"Beauty, fitness, sport","Красота, фитнес, спорт"
+17,Car trade and car service,Автобізнес та автосервіс
+17,Car trade and car service,Автобизнес и автосервис
+18,Telecommunications,"Телекомунікації, зв'язок"
+18,Telecommunications,"Телекоммуникации, связь"
+19,Media,"ЗМІ, медіа"
+19,Media,"СМИ, медиа"
+20,Light industry,Легка промисловість
+20,Light industry,Легкая промышленность
+21,"Building materials, woodworking","Будівельна промисловість, деревообробка"
+21,"Building materials, woodworking","Строительная промышленность, деревообработка"
+21,"Building materials, woodworking",Строительная промышленность и деревообработка
+22,Legal services,Юриспруденція
+22,Legal services,Юриспруденция
+23,Private persons (households as employers),Приватні особи
+23,Private persons (households as employers),Частные лица
+24,"Metallurgy, metalworking","Металургійна промисловість, металообробка"
+24,"Metallurgy, metalworking","Металлургическая промышленность, металлообработка"
+25,Energy,Енергетика
+25,Energy,Энергетика
+26,"Non-profit, charity, civic organisations","Неприбуткові, благодійні та громадські організації"
+26,"Non-profit, charity, civic organisations","Неприбыльные, благотворительные и общественные организации"
+27,"Chemical industry, pharmaceuticals","Хімічна промисловість, фармацевтика"
+27,"Chemical industry, pharmaceuticals","Химическая промышленность, фармацевтика"
+28,Security (older label may include defence),"Охорона, безпека"
+28,Security (older label may include defence),"Охрана, безопасность"
+28,Security (older label may include defence),"Охорона, безпека, оборона"
+28,Security (older label may include defence),"Охрана, безопасность, оборона"
+29,Design,Дизайн
+30,Real estate,Нерухомість
+30,Real estate,Недвижимость
+31,"Publishing, printing","Видавництво, поліграфія"
+31,"Publishing, printing","Издательство, полиграфия"
+32,"Consulting, accounting, audit","Консалтинг, бухгалтерія, аудит"
+32,"Consulting, accounting, audit","Консалтинг, бухгалтерия, аудит"
+33,"Show business, arts, culture","Шоу-бізнес, мистецтво, культура"
+33,"Show business, arts, culture","Шоу-бизнес, искусство, культура"
+34,Mining,Гірнича промисловість
+34,Mining,Горная промышленность
+35,Defence forces,Сили оборони
+36,Tourism,Туризм
+37,"Recruitment, HR","Пошук персоналу, HR"
+37,"Recruitment, HR","Поиск персонала, HR"
+38,"Forestry, wood processing","Лісова промисловість, лісообробка"
+38,"Forestry, wood processing","Лесная промышленность, деревообработка"
